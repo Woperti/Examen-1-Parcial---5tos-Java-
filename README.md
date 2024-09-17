@@ -2,8 +2,8 @@
 
 ## Puntos a evaluar:
 ### 1.Analisis: 10%
-### 2.Implementación(estructura del código, orden, sin errores): 10%
-### 3.Pruebas 10%: Probar en los siguientes casos:
+### 2.Implementación(estructura del código, orden, sin errores): 5%
+### 3.Pruebas 15%: Probar en los siguientes casos:
 
 Diseñar una solución para el siguiente problema:
 Dado un arreglo de numeros enteros, realizar las cuatro operaciones basicas:

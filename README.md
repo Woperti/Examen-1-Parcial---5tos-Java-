@@ -6,7 +6,14 @@
 ### 3.Pruebas 10%: Probar en los siguientes casos:
 
 Diseñar una solución para el siguiente problema:
+Dado un arreglo de numeros enteros, realizar las cuatro operaciones basicas:
+Suma, resta, multiplicacion y division. 
 
+1. Crear funciones por separado para cada operacion
+2. LLamar en el metodo main y guardar las operaciones en una variable(4 variables 1 para cada operacion),
+3. Utilizar System.out.println para cada operacion.
+4. Probar cambiando los valores de cada array.
+   
 ```
 input1: [10, 5, 2]
 

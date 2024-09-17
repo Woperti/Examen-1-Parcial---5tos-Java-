@@ -7,7 +7,7 @@ Pruebas 10%: Probar en los siguientes casos:
 
 Diseñar una solución para el siguiente problema:
 
-input1: [10, 5, 2]
+```code input1: [10, 5, 2] ```
 Suma: 10 + 5 + 2 = 17
 Resta: 10 - 5 - 2 = 3
 Multiplicación: 10 * 5 * 2 = 100

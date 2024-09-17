@@ -1,9 +1,9 @@
 # Examen-1-Parcial: Java 
 
-Puntos a evaluar:
-Analisis: 10%
-Implementación(estructura del código, orden, sin errores): 10%
-Pruebas 10%: Probar en los siguientes casos:
+## Puntos a evaluar:
+### 1.Analisis: 10%
+### 2.Implementación(estructura del código, orden, sin errores): 10%
+### 3.Pruebas 10%: Probar en los siguientes casos:
 
 Diseñar una solución para el siguiente problema:
 

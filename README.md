@@ -23,7 +23,7 @@ Tener en cuenta los metodos para cadenas de String
         /* Escribe aqui tu codigo */
       
     }
-/* No tacar */
+/* No tocar */
     public static void testContarVocales(String cadena, int resultadoEsperado) {
         int resultadoObtenido = contarVocales(cadena);
         String vocalesEncontradas = ""; 

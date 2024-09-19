@@ -67,4 +67,4 @@ Tener en cuenta los metodos para cadenas de String
 ```
 La salida del programa debe de ser:
 
-![Salida](./salida-imagen.png)
+![Salida](./salida-examen.png)

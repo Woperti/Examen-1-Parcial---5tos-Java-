@@ -58,4 +58,4 @@ Disenar un programa que cuente las vocales de una cadena de texto.
 ```
 La salida del programa debe de ser:
 
-[salida](./salida-examen.png)
+![Salida](./salida-imagen.png)

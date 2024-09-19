@@ -6,7 +6,16 @@
 ### 3.Pruebas 10%: Probar en los siguientes casos:
 
 Disenar un programa que cuente las vocales de una cadena de texto.
-   
+
+Tener en cuenta los metodos para cadenas de String
+```Java
+   //Convertir a minusculas
+   cadena.length()
+   //convertir a minusculas
+   cadena.toLowerCase();
+```
+
+ 
 ```java
    public class ContarVocales {
     

@@ -13,6 +13,7 @@ Tener en cuenta los metodos para cadenas de String
    cadena.length()
    //convertir a minusculas
    cadena.toLowerCase();
+   cadena.charAt(i)
 ```
 
  

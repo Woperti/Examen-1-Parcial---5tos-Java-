@@ -1,13 +1,13 @@
 # Examen-1-Parcial: Java 
 
 ## Puntos a evaluar:
-### 1.Analisis: 10%
-### 2.Implementación(estructura del código, orden, sin errores de sintaxis): 10%
-### 3.Pruebas 10%: Probar en los siguientes casos:
+### 1.Implementación(estructura del código, orden, sin errores de sintaxis): 10%
+### 2.Pruebas 20%: Si todos los casos corren con exito.
 
-Disenar un programa que cuente las vocales y las consonantes de una cadena de texto.
+Comletar el programa que se muestra a continuacion para que muestre cuantas son las vocales y las consonantes de una cadena de texto y muestre cuales son.
 
 Tener en cuenta los metodos para cadenas de String
+
 ```Java
    //Convertir a minusculas
    cadena.length()
@@ -15,19 +15,25 @@ Tener en cuenta los metodos para cadenas de String
    cadena.toLowerCase();
    cadena.charAt(i)
 ```
-
  
 ```java
- public class ContarVocalesYConsonantes {
+public class ContarVocalesYConsonantes {
 
     public static int[] contarVocalesYConsonantes(String cadena) {
         int contadorVocales = 0;
         int contadorConsonantes = 0;
-        String vocales = "aeiouAEIOU";
-      
-        /* Escribe tu codigo aqui */
+        
 
-         /*Aqui termina tu codigo */
+        for () {
+
+            if (Character.isLetter(caracter)) { 
+                if () {
+                    contadorVocales;
+                } else {
+                  
+                }
+            }
+        }
         return new int[]{contadorVocales, contadorConsonantes}; 
     }
 
